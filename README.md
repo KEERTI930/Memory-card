@@ -25,7 +25,7 @@ A fun and interactive memory matching game built using HTML, CSS, and JavaScript
 5. Match all cards to win!
 
 ## 🧩 Screenshot
-![Alt Text]()
+![Alt Text](https://github.com/KEERTI930/Memory-card/blob/main/Screenshot%20(218).png?raw=true)
 ![Alt Text]()
 ![Alt Text]()
 ![Alt Text]()
