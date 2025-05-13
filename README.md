@@ -26,6 +26,6 @@ A fun and interactive memory matching game built using HTML, CSS, and JavaScript
 
 ## 🧩 Screenshot
 ![Alt Text](https://github.com/KEERTI930/Memory-card/blob/main/Screenshot%20(218).png?raw=true)
-![Alt Text]()
+![Alt Text](https://github.com/KEERTI930/Memory-card/blob/main/Screenshot%20(210).png?raw=true)
 ![Alt Text]()
 ![Alt Text]()
